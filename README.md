@@ -8,7 +8,7 @@ APPLICATION USAGE// Pocket Pew
 ----------------------------------------------------------
 # Pocket Pew is a portable laser-tag system consisting of a free android application and approved laser-tag attachments.
 
-# Startup the application to connect your phone to your Pocket Pew rig; select you your Bluetooth compatible rig and get ready to Pew!
+# Startup the application to connect your phone to your Pocket Pew rig; select your Bluetooth compatible rig and get ready to Pew!
 
 # Pocket Pew is designed with player safety in mind; regardless, Laser Tag is an active sport and as such injuries are possible. Exercise extreme caution in active sporting situations; phones and Pocket Pew accessories should be checked and secured before every use. Appropriate safety precautions should be taken to avoid human and android injuries; Laser Hawk Studios is not responsible for damage to either.
 
