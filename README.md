@@ -1,14 +1,6 @@
 # Android-Tag
 An app which coordinates with a custom-made phone attachment allows the user to play infrared tag.
-
-
-
-                  _        _       ___              
- _ __   ___   ___| | _____| |_    / _ \_____      __
-| '_ \ / _ \ / __| |/ / _ | __|  / /_)/ _ \ \ /\ / /
-| |_) | (_) | (__|   |  __| |_  / ___|  __/\ V  V / 
-| .__/ \___/ \___|_|\_\___|\__| \/    \___| \_/\_/  
-|_|                                                 
+                                      
 Pocket Pew Portable Laser Tag V.01 4/27/2016
 ----------------------------------------------------------
 
